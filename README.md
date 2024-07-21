@@ -1,5 +1,7 @@
 # sagemakerexample
 
+[ProjectExample_Notebook1](ProjectExample_Notebook1.ipynb)
+
 This example is for the purpose of exploring aws sagemaker. 
 In this exmaple, 
 1. Created s3 bucket
